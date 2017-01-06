@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<center><h1>Hello.</h1></center>
+<p>
+
+
+<p>
+<center><p>Welcome to my website. Here you can browse, chat, or play a game.</p></center>
+
+
+
+
+
+
+</html>
+<style>
+  body {
+  background-color: black;
+  }
+  p {
+  color: white;
+  }
+</style>
